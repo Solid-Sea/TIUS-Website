@@ -1,15 +1,26 @@
 ---
 layout: page
-title: About
+title: 关于我们
 permalink: /about/
 ---
 
-Some information about you!
+# 泰拉联合航天-简介
+泰拉联合航天是一家基于虚拟网路的航天研究与工业联合体，总部位于萨尔贡的松林号移动平台上。（松林号目前处于半废弃状态，未获得许可者严禁私自进入）
 
-### More Information
+# 泰拉联合航天 我们的口号
+<i>严谨可靠 万无一失 锐意进取 不惜一切</i>
 
-A place to include any other types of information that you'd like to include about yourself.
+# 泰拉联合航天-成员列表
+海凝（副部长，代理部长，网站运维，技术员）【状态正常】
+药剂师（前部长，前网站拥有者）【网络失联，QQ账号被冻结】-202305.18疑似重连成功
+已失联骨干 共计六人
+一般成员 共计三十七人
+泰拉联合学会联络员 月玄 大炎土木狗【低联络强度】
 
-### Contact me
+# 友情链接
+[海凝的个人博客（未开通）](https://solidsea.onrender.com)
+<del>泰拉联合学会论坛（已关闭）</del>
 
-[email@domain.com](mailto:email@domain.com)
+
+# 联系我们
+[solidsea@outlook.com](mailto:solidsea@outlook.com)
